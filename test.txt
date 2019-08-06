@@ -4,3 +4,5 @@
 这是master上增加的内容,增加到mergedemo的内容
 
 version1
+
+version2
